@@ -738,12 +738,29 @@ video {
   padding-bottom: 4rem;
 }
 
+.py-24{
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
 .pb-24{
   padding-bottom: 6rem;
 }
 
 .pt-36{
   padding-top: 9rem;
+}
+
+.pb-32{
+  padding-bottom: 8rem;
+}
+
+.pb-36{
+  padding-bottom: 9rem;
+}
+
+.pt-24{
+  padding-top: 6rem;
 }
 
 .text-center{
