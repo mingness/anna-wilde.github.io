@@ -31,26 +31,29 @@ div.links-without-underline a {
 }
 
 .text-md-anna {
-    @apply text-[1.4rem] font-light
+    @apply font-anna text-[1.4rem] font-light
 }
 
 .text-lg-anna {
-    @apply text-[1.8rem] font-light
+    @apply font-anna text-[1.8rem] font-light
 }
 
 
 h1 {
-    @apply text-[1.8rem] font-semibold mb-10;
+    @apply font-anna text-[1.8rem] font-semibold mb-10;
 }
 
 h2 {
-    @apply text-lg-anna my-8;
+    @apply font-anna text-lg-anna mb-8;
 }
 
 h3 {
-    @apply text-md-anna my-8;
+    @apply font-anna text-md-anna mb-8;
 }
 
+div.vita br {
+    @apply mb-4
+}
 
 .nav-x {
     @apply mx-8 sm:mx-16;
@@ -59,8 +62,3 @@ h3 {
 .nav-y {
     @apply my-6
 }
-
-ul {
-    @apply list-disc list-inside
-}
-
