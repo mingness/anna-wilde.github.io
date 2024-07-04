@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<div class="flex">
+    <div class="flex-col justify-between w-full">
+
+        <div class="flex justify-center">
+            <div class="my-16 mx-4 single-col-anna text-lg">
+                <h2 class="text-blue-anna">Kontakt</h2>
+
+                <div class="my-8">
+                    <iframe 
+                    width="100%"
+                    height="350"
+                    frameborder="0" 
+                    src="https://www.google.com/maps/embed/v1/place?key={{ site.env.GOOGLE_API_KEY }}&amp;q=Bergmannstra%C3%9Fe%205%2C%2010965%20Berlin%2C%20Deutschland&amp;zoom=15"
+                    allowfullscreen></iframe>
+                </div>
+                
+                <div class="flex flex-col sm:flex-row justify-items-stretch sm:justify-evenly gap-8">
+                
+                    <div class="my-4 sm:w-1/2">
+                        <h3 class="text-blue-anna">Kontakt</h3>
+                        Anna Wilde - Heilpraktikerin für Psychotherapie, 
+                        Systemische Therapeutin für Einzel-, Paar- & Familientherapie (SG) 
+                    </div>
+                    <div class="my-4 sm:w-1/2">
+                        <h3 class="text-blue-anna">Adresse</h3>
+                        Praxisgemeinschaft <br>
+                        Bergmannstraße 5<br>
+                        10965 Berlin<br>
+                        <br>
+                        <a href="mailto:mail@annawilde.de">mail@annawilde.de</a>
+                    </div> 
+                
+                </div>
+                
+            </div>
+        </div>
+
+        <div class="bg-yellow-anna w-full">
+            <div class="flex justify-center">
+                <div class="my-16 mx-4 single-col-anna text-lg">
+                    {% include ihr-weg.html %}
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</div>

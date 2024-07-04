@@ -38,6 +38,9 @@ div.links-without-underline a {
     @apply font-anna text-[1.8rem] font-light
 }
 
+.single-col-anna {
+    @apply md:w-[760px] lg:max-w-6xl
+}
 
 h1 {
     @apply font-anna text-[1.8rem] font-semibold mb-10;
@@ -51,7 +54,7 @@ h3 {
     @apply font-anna text-md-anna mb-8;
 }
 
-div.vita br {
+div.para-gap br {
     @apply mb-4
 }
 
