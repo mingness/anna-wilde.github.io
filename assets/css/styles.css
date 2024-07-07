@@ -584,6 +584,11 @@ video {
   margin-bottom: 4rem;
 }
 
+.my-20{
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
 .my-4{
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -597,6 +602,16 @@ video {
 .my-8{
   margin-top: 2rem;
   margin-bottom: 2rem;
+}
+
+.my-12{
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.my-24{
+  margin-top: 6rem;
+  margin-bottom: 6rem;
 }
 
 .mb-16{
@@ -637,14 +652,6 @@ video {
 
 .h-6{
   height: 1.5rem;
-}
-
-.h-80{
-  height: 20rem;
-}
-
-.h-96{
-  height: 24rem;
 }
 
 .w-6{
@@ -938,5 +945,16 @@ div.para-gap br{
 
   .md\:p-0{
     padding: 0px;
+  }
+}
+
+@media (min-width: 1024px){
+  .lg\:mx-8{
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+
+  .lg\:max-w-3xl{
+    max-width: 48rem;
   }
 }
