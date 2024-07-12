@@ -560,10 +560,6 @@ video {
   position: fixed;
 }
 
-.m-16{
-  margin: 4rem;
-}
-
 .mx-4{
   margin-left: 1rem;
   margin-right: 1rem;
@@ -574,14 +570,14 @@ video {
   margin-right: 2rem;
 }
 
-.my-10{
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
-}
-
 .my-12{
   margin-top: 3rem;
   margin-bottom: 3rem;
+}
+
+.my-14{
+  margin-top: 3.5rem;
+  margin-bottom: 3.5rem;
 }
 
 .my-16{
@@ -609,11 +605,6 @@ video {
   margin-bottom: 2rem;
 }
 
-.my-14{
-  margin-top: 3.5rem;
-  margin-bottom: 3.5rem;
-}
-
 .mb-16{
   margin-bottom: 4rem;
 }
@@ -624,6 +615,10 @@ video {
 
 .mb-4{
   margin-bottom: 1rem;
+}
+
+.mb-8{
+  margin-bottom: 2rem;
 }
 
 .mt-10{
@@ -638,8 +633,8 @@ video {
   margin-top: 1rem;
 }
 
-.mb-8{
-  margin-bottom: 2rem;
+.mt-8{
+  margin-top: 2rem;
 }
 
 .flex{
@@ -668,6 +663,10 @@ video {
 
 .w-full{
   width: 100%;
+}
+
+.max-w-lg{
+  max-width: 32rem;
 }
 
 .cursor-pointer{
@@ -732,6 +731,10 @@ video {
      object-fit: cover;
 }
 
+.p-16{
+  padding: 4rem;
+}
+
 .p-4{
   padding: 1rem;
 }
@@ -741,9 +744,9 @@ video {
   padding-right: 1rem;
 }
 
-.py-10{
-  padding-top: 2.5rem;
-  padding-bottom: 2.5rem;
+.py-14{
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
 }
 
 .py-16{
@@ -761,16 +764,6 @@ video {
   padding-bottom: 1rem;
 }
 
-.py-12{
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-}
-
-.py-14{
-  padding-top: 3.5rem;
-  padding-bottom: 3.5rem;
-}
-
 .text-center{
   text-align: center;
 }
@@ -779,12 +772,12 @@ video {
   font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
-.font-extralight{
-  font-weight: 200;
-}
-
 .font-bold{
   font-weight: 700;
+}
+
+.font-extralight{
+  font-weight: 200;
 }
 
 .italic{
@@ -890,8 +883,13 @@ h3{
   line-height: 1.25;
 }
 
-div.para-gap br{
+div.datenschutz p{
   margin-bottom: 1rem;
+}
+
+div.datenschutz p.section-title{
+  margin-top: 2rem;
+  font-weight: 700;
 }
 
 @media (min-width: 640px){
@@ -905,10 +903,6 @@ div.para-gap br{
 
   .sm\:flex-row{
     flex-direction: row;
-  }
-
-  .sm\:justify-evenly{
-    justify-content: space-evenly;
   }
 }
 

@@ -63,6 +63,10 @@ h3 {
     @apply font-anna text-md-anna mb-8;
 }
 
-div.para-gap br {
+div.datenschutz p {
     @apply mb-4;
+}
+
+div.datenschutz p.section-title {
+    @apply mt-8 font-bold;
 }
