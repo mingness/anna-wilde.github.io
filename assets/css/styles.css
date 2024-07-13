@@ -633,10 +633,6 @@ video {
   margin-top: 1rem;
 }
 
-.mt-8{
-  margin-top: 2rem;
-}
-
 .flex{
   display: flex;
 }
@@ -883,7 +879,7 @@ h3{
   line-height: 1.25;
 }
 
-div.datenschutz p{
+p{
   margin-bottom: 1rem;
 }
 

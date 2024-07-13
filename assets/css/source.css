@@ -63,7 +63,7 @@ h3 {
     @apply font-anna text-md-anna mb-8;
 }
 
-div.datenschutz p {
+p {
     @apply mb-4;
 }
 
