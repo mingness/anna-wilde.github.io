@@ -885,7 +885,7 @@ p{
 
 div.datenschutz p.section-title{
   margin-top: 2rem;
-  font-weight: 700;
+  text-decoration-line: underline;
 }
 
 @media (min-width: 640px){

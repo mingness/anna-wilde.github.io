@@ -68,5 +68,5 @@ p {
 }
 
 div.datenschutz p.section-title {
-    @apply mt-8 font-bold;
+    @apply mt-8 underline;
 }
