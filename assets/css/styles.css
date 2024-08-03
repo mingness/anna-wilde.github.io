@@ -677,6 +677,10 @@ video {
   grid-auto-flow: row;
 }
 
+.flex-row{
+  flex-direction: row;
+}
+
 .flex-col{
   flex-direction: column;
 }
@@ -711,6 +715,10 @@ video {
 
 .gap-0{
   gap: 0px;
+}
+
+.gap-28{
+  gap: 7rem;
 }
 
 .gap-8{
