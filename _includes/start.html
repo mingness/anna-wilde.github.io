@@ -14,8 +14,16 @@
                 </p>
             </div>
         </div>
-        <div class="md:shrink-0 md:w-1/2">
-            <img src="/assets/img/portrait.jpeg" class="object-cover w-full md:h-full">
+        <div class="shrink-0 md:w-1/2">
+            <picture>
+                <source 
+                    media="(min-width: 768px)"
+                    srcset="/assets/img/portrait.webp">
+                <source 
+                    media="(max-width: 768px)"
+                    srcset="/assets/img/portrait_crop.webp">
+                <img src="/assets/img/portrait.webp" class="object-cover h-full">
+            </picture>
 
         </div>            
     </div>
