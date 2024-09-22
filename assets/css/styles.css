@@ -653,10 +653,6 @@ video {
   height: 1.5rem;
 }
 
-.h-full{
-  height: 100%;
-}
-
 .w-6{
   width: 1.5rem;
 }
@@ -667,10 +663,6 @@ video {
 
 .max-w-lg{
   max-width: 32rem;
-}
-
-.shrink-0{
-  flex-shrink: 0;
 }
 
 .cursor-pointer{
