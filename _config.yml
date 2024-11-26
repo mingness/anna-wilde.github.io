@@ -1,7 +1,8 @@
 title: Anna Wilde
-description: >- # this means to ignore newlines until "baseurl:"
-  Neukölln's non-profit art cooperative.
-url: "https://annawilde.de" # the base hostname & protocol for your site, e.g. http://example.com
+description: >- 
+  Anna Wilde - Heilpraktikerin für Psychotherapie, Systemische Therapeutin für Einzel-, Paar- & Familientherapie (SG) 
+  / Licensed non-medical practitioner for Psychotherapy Systemic Individual, Couples & Family Therapy (SG)
+url: "https://annawilde.de" 
 
 future: true
 

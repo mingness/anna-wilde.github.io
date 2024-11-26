@@ -560,9 +560,8 @@ video {
   position: fixed;
 }
 
-.mx-4{
-  margin-left: 1rem;
-  margin-right: 1rem;
+.relative{
+  position: relative;
 }
 
 .mx-8{
@@ -617,10 +616,6 @@ video {
   margin-bottom: 1rem;
 }
 
-.mb-8{
-  margin-bottom: 2rem;
-}
-
 .mt-10{
   margin-top: 2.5rem;
 }
@@ -653,6 +648,14 @@ video {
   height: 1.5rem;
 }
 
+.h-full{
+  height: 100%;
+}
+
+.min-h-full{
+  min-height: 100%;
+}
+
 .w-6{
   width: 1.5rem;
 }
@@ -661,8 +664,12 @@ video {
   width: 100%;
 }
 
-.max-w-lg{
-  max-width: 32rem;
+.max-w-xl{
+  max-width: 36rem;
+}
+
+.grow{
+  flex-grow: 1;
 }
 
 .cursor-pointer{
@@ -776,10 +783,6 @@ video {
   font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
-.font-bold{
-  font-weight: 700;
-}
-
 .font-extralight{
   font-weight: 200;
 }
@@ -834,6 +837,7 @@ div.links-without-underline a {
   font-size: clamp(1.8rem, 3vw, 2.7rem);
   font-family: Raleway;
   font-weight: 300;
+  line-height: 1.25;
 }
 
 .single-col-anna{
@@ -877,6 +881,7 @@ h2{
   font-size: clamp(1.8rem, 3vw, 2.7rem);
   font-family: Raleway;
   font-weight: 300;
+  line-height: 1.25;
 }
 
 h3{
@@ -939,6 +944,7 @@ div.datenschutz p.section-title{
   .md\:w-2\/3{
     width: 66.666667%;
   }
+
 
   .md\:shrink-0{
     flex-shrink: 0;
