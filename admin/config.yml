@@ -1,0 +1,78 @@
+local_backend: true
+
+backend:
+  name: git-gateway
+  repo: anna-wilde/anna-wilde.github.io
+  branch: main # Branch to update (optional; defaults to master)
+
+media_folder: "assets/img" 
+
+collections:
+  - name: "de_blog" # Used in routes, e.g., /admin/collections/de_blog
+    label: "DE Blog" # Used in the UI
+    folder: "de/_posts" # The path to the folder where the documents are stored
+    media_folder: '../{{media_folder}}/blog/'
+    public_folder: '/assets/img/blog/'
+    slug: "{{ date }}-{{ slug }}" # Filename template, e.g., YYYY-MM-DD-title.md
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - { 
+        label: "Layout", 
+        name: "layout", 
+        widget: "hidden", 
+        default: "de/post" 
+      }
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime" 
+        date_format: "YYYY-MM-DD"
+      - { 
+        label: "Title", 
+        name: "title", 
+        widget: "string" 
+      }
+      - { 
+        label: "Description", 
+        name: "description", 
+        widget: "string", 
+      }
+      - { 
+        label: "Body", 
+        name: "body", 
+        widget: "markdown", 
+        required: false 
+      }
+  - name: "en_blog" # Used in routes, e.g., /admin/collections/en_blog
+    label: "EN Blog" # Used in the UI
+    folder: "en/_posts" # The path to the folder where the documents are stored
+    media_folder: '../{{media_folder}}/blog/'
+    public_folder: '/assets/img/blog/'
+    slug: "{{ date }}-{{ slug }}" # Filename template, e.g., YYYY-MM-DD-title.md
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - { 
+        label: "Layout", 
+        name: "layout", 
+        widget: "hidden", 
+        default: "en/post" 
+      }
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime" 
+        date_format: "YYYY-MM-DD"
+      - { 
+        label: "Title", 
+        name: "title", 
+        widget: "string" 
+      }
+      - { 
+        label: "Description", 
+        name: "description", 
+        widget: "string", 
+      }
+      - { 
+        label: "Body", 
+        name: "body", 
+        widget: "markdown", 
+        required: false 
+      }

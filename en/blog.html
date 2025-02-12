@@ -1,0 +1,37 @@
+---
+layout: en/default
+description: Practice for Systemic Therapy, Coaching & Supervision - Blog
+---
+
+{% assign en_posts = site.posts | where: "categories", "en" %}
+
+<div class="flex">
+    <div class="flex-col justify-between w-full">
+
+        {% for post in en_posts %}
+        <div class="flex justify-center links-without-underline">
+            <div class="flex flex-col md:flex-row justify-evenly my-16 wide-col-anna md:mx-16 gap-8">
+
+                <div class="md:w-1/3">
+                        <a href="{{ post.url | relative_url }}">
+                            <h2 class="text-blue-anna">{{ post.title }}</h2>
+                        </a>
+                </div>
+            
+                <div class="md:w-2/3 text-md-anna text-blue-anna">
+                        <a href="{{ post.url | relative_url }}">
+
+                        {{ post.description }}
+
+                        </a>
+                </div>
+
+            </div>
+        </div>
+        {%- if forloop.index < forloop.length -%}
+        <hr>
+        {%- endif -%}
+        {% endfor %}
+
+    </div>
+</div>
