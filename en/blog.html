@@ -11,23 +11,27 @@ description: Practice for Systemic Therapy, Coaching & Supervision - Blog
         {% for post in en_posts %}
         <div class="flex justify-center links-without-underline">
             <div class="flex flex-col md:flex-row justify-evenly my-16 wide-col-anna md:mx-16 gap-8">
+                <div class="md:w-1/6">
+                    {{ post.date | date: "%d.%m.%Y" }}
+                </div>
 
                 <div class="md:w-1/3">
-                        <a href="{{ post.url | relative_url }}">
-                            <h2 class="text-blue-anna">{{ post.title }}</h2>
-                        </a>
+                    <a href="{{ post.url | relative_url }}">
+                        <h2 class="text-blue-anna">{{ post.title }}</h2>
+                    </a>
                 </div>
             
-                <div class="md:w-2/3 text-md-anna text-blue-anna">
-                        <a href="{{ post.url | relative_url }}">
+                <div class="md:w-1/2 text-md-anna text-blue-anna">
+                    <a href="{{ post.url | relative_url }}">
 
-                        {{ post.description }}
+                    {{ post.description }}
 
-                        </a>
+                    </a>
                 </div>
 
             </div>
         </div>
+        <!-- if statement so hr only in between entries -->
         {%- if forloop.index < forloop.length -%}
         <hr>
         {%- endif -%}
