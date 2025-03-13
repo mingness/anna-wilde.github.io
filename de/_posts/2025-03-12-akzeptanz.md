@@ -20,7 +20,7 @@ Wir alle haben unsere ganz eigenen Strategien, mit einer Krise umzugehen. Häufi
 
 
 
-ACT - oder auch die Acceptance und Commitment Therapy - ist ein Ansatz, der darauf beruht, das Schwere oder Leidvolle bewusst zu integrieren und sich dessen anzunehmen. Der besondere Mehrwert liegt darin, dass Akzeptanz nach diesem Ansatz eine aktive Komponente einbezieht. Es bedeutet also kein passives Erdulden von leidvollen Zuständen. Ganz im Gegenteil.  Hier kommt eine bewusste Entscheidung, eine Haltung ins Spiel. Ich kann mich entscheiden, mich der Krise anzunehmen und sie in mein Leben zu integrieren. Anstatt Energie darauf zu investieren, immer wieder gegen das Leid anzukämpfen oder mich mit Selbstanklage mit dem Schmerz zu konfrontieren, bedeutet dessen Annahme einen ganz anderen Modus. 
+ACT - oder auch die Acceptance und Commitment Therapy - ist ein Ansatz, der darauf beruht, das Schwere oder Leidvolle bewusst zu integrieren und sich dessen anzunehmen. Der besondere Mehrwert liegt darin, dass Akzeptanz nach diesem Ansatz eine aktive Komponente einbezieht. Es bedeutet also kein passives Erdulden von leidvollen Zuständen. Ganz im Gegenteil. Hier kommt eine bewusste Entscheidung, eine Haltung ins Spiel. Ich kann mich entscheiden, mich der Krise anzunehmen und sie in mein Leben zu integrieren. Anstatt Energie darauf zu investieren, immer wieder gegen das Leid anzukämpfen oder mich mit Selbstanklage mit dem Schmerz zu konfrontieren, bedeutet dessen Annahme einen ganz anderen Modus. 
 
 
 
@@ -32,6 +32,6 @@ Der Versuch, das Unangenehme möglichst schnell wieder aus dem Leben zu verbanne
 
 Wenn wir es schaffen, diese Energie stattdessen auf uns selbst zu richten und den Schmerz nicht wegzudrücken oder zu meiden, dann kann hier ein wichtiger erster Schritt in Richtung Akzeptanz stattfinden. Es geht hier also um eine Haltung, die sich inneren Prozesse zuwendet, sie beobachtet und sich für das Unangenehme interessiert. Was steckt eigentlich dahinter? Und was braucht der Schmerz? Was lässt den Schmerz größer werden? Was beruhigt ihn? 
 
- Tom Pinkall bezeichnet Akzeptanz als eine Fähigkeit, die wir kultivieren können und versteht sie damit als eine dynamische Ressource. Sie ist also nicht statisch. Genauso wie beim Meditieren könnte man sagen, handelt es sich im übertragenen Sinne um einen Muskel, den wir trainieren können. 
+Tom Pinkall bezeichnet Akzeptanz als eine Fähigkeit, die wir kultivieren können und versteht sie damit als eine dynamische Ressource. Sie ist also nicht statisch. Genauso wie beim Meditieren könnte man sagen, handelt es sich im übertragenen Sinne um einen Muskel, den wir trainieren können. 
 
 Und wenn es nicht möglich erscheint, eine Krise für sich anzunehmen, dann können wir sie möglicherweise trotzdem als etwas Schmerzhaftes oder Leidvolles anerkennen oder sie sogar würdigen.

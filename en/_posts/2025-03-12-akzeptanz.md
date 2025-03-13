@@ -1,37 +1,24 @@
 ---
 layout: en/post
 date: 2025-03-12
-title: Akzeptanz
-description: "„Connect with the crisis“    Eine Krise für sich anzunehmen und
-  mit ihr „in die Verbindung“ zu gehen, bedeutet, in herausfordernden Zeiten
-  einen Umgang für sich mit dem Schweren oder Leidvollen zu finden, ohne die
-  Augen davor zu verschließen. Es stellt einen wichtigen Schritt in der
-  Bewältigung einer Krise dar. "
+title: Acceptance
+description: "Connect with the crisis" Accepting a crisis and "connecting with it" means finding a way to cope with the          difficult or painful aspects of life during challenging times, without closing your eyes to them. It represents an important step in overcoming a crisis.
+
 ---
-„Connect with the crisis“ 
+"Connect with the crisis"
 
+Accepting a crisis and "connecting with it" means finding a way to deal with the difficult or painful aspects of life during challenging times without closing your eyes to them. It represents an important step in overcoming a crisis.
 
+We all have our own strategies for dealing with a crisis. People often tend to deny crises until they become so big that they can no longer be ignored. Or we run away, lose ourselves in blind actionism, or perhaps even fight against them.
 
-Eine Krise für sich anzunehmen und mit ihr „in die Verbindung“ zu gehen, bedeutet, in herausfordernden Zeiten einen Umgang für sich mit dem Schweren oder Leidvollen zu finden, ohne die Augen davor zu verschließen. Es stellt einen wichtigen Schritt in der Bewältigung einer Krise dar. 
+ACT — Acceptance and Commitment Therapy — is an approach based on consciously integrating and embracing the difficult or painful aspects of life. The unique value of this approach lies in the fact that acceptance includes an active component. It is not about passively enduring painful states. On the contrary, it involves a conscious decision, a shift in attitude. I can choose to accept the crisis and integrate it into my life. Instead of investing energy in repeatedly fighting against the pain or confronting it with self-reproach, acceptance opens up a completely different mode of being.
 
+Let’s be honest — we all know these moments. We sense that something is becoming more and more unbalanced, and we desperately try to hold on to it and manage it as quickly and quietly as possible with our individual coping strategies. And this is exactly where the shift in thinking happens: whatever is off balance here is calling for a pause and a moment of awareness. It’s less about figuring out the "why" and diving deep into root cause analysis. Instead, this mode refers to a state of awareness — a compassionate and observing gaze at oneself — without judgment.
 
+The attempt to banish discomfort from our lives as quickly as possible, if it works at all, can only succeed temporarily. The fact that something painful or difficult has entered my life is something I cannot change — no matter how much energy I invest in fighting it. That energy is wasted.
 
-Wir alle haben unsere ganz eigenen Strategien, mit einer Krise umzugehen. Häufig neigen wir Menschen dazu, Krisen zu leugnen, bis sie so groß geworden sind, dass wir sie nicht mehr ignorieren können. Oder wir rennen weg, verlieren uns in blindem Aktionismus oder kämpfen vielleicht sogar dagegen an.
+If we manage to direct this energy toward ourselves instead — to stop pushing away or avoiding the pain — an important first step toward acceptance can take place. This is about adopting an attitude that turns toward inner processes, observes them, and develops an interest in the uncomfortable. What is really behind it? What does the pain need? What makes the pain grow? What soothes it?
 
+Tom Pinkall describes acceptance as a skill that we can cultivate, understanding it as a dynamic resource rather than a static one. Just like meditation, it can be seen as a muscle that we can train.
 
-
-ACT - oder auch die Acceptance und Commitment Therapy - ist ein Ansatz, der darauf beruht, das Schwere oder Leidvolle bewusst zu integrieren und sich dessen anzunehmen. Der besondere Mehrwert liegt darin, dass Akzeptanz nach diesem Ansatz eine aktive Komponente einbezieht. Es bedeutet also kein passives Erdulden von leidvollen Zuständen. Ganz im Gegenteil.  Hier kommt eine bewusste Entscheidung, eine Haltung ins Spiel. Ich kann mich entscheiden, mich der Krise anzunehmen und sie in mein Leben zu integrieren. Anstatt Energie darauf zu investieren, immer wieder gegen das Leid anzukämpfen oder mich mit Selbstanklage mit dem Schmerz zu konfrontieren, bedeutet dessen Annahme einen ganz anderen Modus. 
-
-
-
-Mal ehrlich: wir alle kennen diese Momente. Wir nehmen wahr, dass etwas immer mehr in Schieflage gerät, wir halten verzweifelt daran fest und versuchen mit unseren individuellen Coping Strategien, es möglichst schnell und ohne großes Aufsehen wieder in den Griff zu bekommen. Und genau hier findet das Umdenken statt: was auch immer hier in Schieflage gerät, ruft nach einem Innehalten und einem Bewusstwerden. Hier geht es also weniger darum, dem Warum auf die Spur zu kommen und tief in die Ursachenerforschung einzutauchen. Vielmehr meint dieser Modus einen Bewusstseins-zustand, der mitfühlend und beobachtend auf sich selbst blickt - ohne zu bewerten. 
-
-
-
-Der Versuch, das Unangenehme möglichst schnell wieder aus dem Leben zu verbannen, kann wenn überhaupt nur kurzfristig glücken. Die Tatsache, dass Leidvolles oder eine Krise in meinem Leben ist, kann ich nicht verändern - ganz egal, mit wie viel Energie ich versuche, dagegen anzukämpfen. Diese Energie ist verschenkt.
-
-Wenn wir es schaffen, diese Energie stattdessen auf uns selbst zu richten und den Schmerz nicht wegzudrücken oder zu meiden, dann kann hier ein wichtiger erster Schritt in Richtung Akzeptanz stattfinden. Es geht hier also um eine Haltung, die sich inneren Prozesse zuwendet, sie beobachtet und sich für das Unangenehme interessiert. Was steckt eigentlich dahinter? Und was braucht der Schmerz? Was lässt den Schmerz größer werden? Was beruhigt ihn? 
-
- Tom Pinkall bezeichnet Akzeptanz als eine Fähigkeit, die wir kultivieren können und versteht sie damit als eine dynamische Ressource. Sie ist also nicht statisch. Genauso wie beim Meditieren könnte man sagen, handelt es sich im übertragenen Sinne um einen Muskel, den wir trainieren können. 
-
-Und wenn es nicht möglich erscheint, eine Krise für sich anzunehmen, dann können wir sie möglicherweise trotzdem als etwas Schmerzhaftes oder Leidvolles anerkennen oder sie sogar würdigen.
+And if it seems impossible to accept a crisis, we may still be able to acknowledge it as something painful or difficult — or even honor it.
