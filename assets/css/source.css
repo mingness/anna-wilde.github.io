@@ -50,7 +50,7 @@ div.links-without-underline a {
 }
 
 .blog-col-anna {
-    @apply mx-4 md:w-[760px] lg:max-w-7xl;
+    @apply mx-4 md:w-[760px] lg:w-full lg:px-20;
 }
 
 h1 {
