@@ -2,11 +2,8 @@
 layout: de/post
 date: 2025-03-12
 title: Akzeptanz
-description: „Connect with the crisis“  Eine Krise für sich anzunehmen und mit
-  ihr „in die Verbindung“ zu gehen, bedeutet, in herausfordernden Zeiten einen
-  Umgang für sich mit dem Schweren oder Leidvollen zu finden, ohne die Augen
-  davor zu verschließen. Es stellt einen wichtigen Schritt in der Bewältigung
-  einer Krise dar.
+description: In diesem Artikel geht es um ACT - die Acceptance & Commitment Therapie, die eine besondere Haltung in Bezug auf Krisen vermittelt - ganz nach dem Motto „Connect with the crisis“.
+
 ---
 „Connect with the crisis“ 
 
