@@ -2,7 +2,7 @@
 layout: en/post
 date: 2025-03-12
 title: Acceptance
-description: "Connect with the crisis" Accepting a crisis and "connecting with it" means finding a way to cope with the          difficult or painful aspects of life during challenging times, without closing your eyes to them. It represents an important step in overcoming a crisis.
+description: '"Connect with the crisis" Accepting a crisis and "connecting with it" means finding a way to cope with the         difficult or painful aspects of life during challenging times, without closing your eyes to them. It represents an important step in overcoming a crisis.'
 
 ---
 "Connect with the crisis"
