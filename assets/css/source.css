@@ -49,6 +49,10 @@ div.links-without-underline a {
     @apply mx-4 lg:max-w-6xl;
 }
 
+.blog-col-anna {
+    @apply mx-4 md:w-[760px] lg:max-w-7xl;
+}
+
 h1 {
     font-size: clamp(1.8rem, 3vw, 2.7rem);
     @apply font-anna font-medium leading-tight;
