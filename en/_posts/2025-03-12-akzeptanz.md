@@ -2,7 +2,7 @@
 layout: en/post
 date: 2025-03-12
 title: Acceptance
-description: 'This article is about ACT — Acceptance and Commitment Therapy — distinctive perspective on times of crisis, following the motto "Connect with the crisis."'
+description: 'This article is about ACT — Acceptance and Commitment Therapy — offers a distinctive perspective on times of crisis, following the motto "Connect with the crisis."'
 
 ---
 "Connect with the crisis"
